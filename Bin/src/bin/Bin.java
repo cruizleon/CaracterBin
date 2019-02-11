@@ -16,6 +16,7 @@ import java.io.OutputStreamWriter;
 /**
  *
  * @author Cristhian Ruiz, Andrés Sánchez
+ * Fdtos. Prog. Web NRC:7953
  */
 public class Bin {
 
@@ -51,7 +52,7 @@ public class Bin {
    //bw.flush();
    
   
-   txt.write( caracteres.charAt(i)+"="+nuevo+",");
+   txt.write( caracteres.charAt(i)+"="+nuevo+", ");
    txt.flush();
   }
  } 
