@@ -15,7 +15,7 @@ import java.io.OutputStreamWriter;
 
 /**
  *
- * @author BOG-A406-E-011
+ * @author Cristhian Ruiz, Andrés Sánchez
  */
 public class Bin {
 
